@@ -14,7 +14,7 @@ A corresponding manual for the operation of the system including open source ins
 CountYourBirds is a project by a group of students at the Institute for Geoinformatics at the University of Münster. 
 If you got any questions contact us via: [info@birdiary.de](mailto:info@birdiary.de).
 
-## Installtion
+## Installation
 To run the platform you first have to install docker, which then installs all further needed packages and programs. After the installation you can clone and run the platform in development or production environment.
 
 ### Docker
